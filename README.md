@@ -7,14 +7,14 @@ A simple automation script to install and manage **RustDesk Server** with ease.
 
 ## 📋 Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Menu](#menu)
-- [Credits](#credits)
-- [License](#license)
-- [Disclaimer](#disclaimer)
-- [Support](#support)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Menu](#-menu)
+- [Credits](#-credits)
+- [License](#-license)
+- [Disclaimer](#%EF%B8%8F-disclaimer)
+- [Support](#-support)
 
 ---
 
