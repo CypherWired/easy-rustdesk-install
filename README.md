@@ -30,16 +30,16 @@ A simple automation script to install and manage **RustDesk Server** with ease.
 ## 🚀 Installation
 
 ```bash
-wget -O rustdesk-installer.sh https://raw.githubusercontent.com/CypherWired/easy-rustdesk-installer/main/easyrustdeskinstaller.sh
-chmod +x easyrustdeskinstaller.sh
-sudo ./easyrustdeskinstaller.sh
+wget https://raw.githubusercontent.com/CypherWired/easy-rustdesk-installer/main/eri.sh
+chmod +x eri.sh
+sudo ./eri.sh
 ```
 
 ## 🔧 Usage
 
 Run the script and follow the menu:
 ```bash
-sudo ./easyrustdeskinstaller.sh
+sudo ./eri.sh
 ```
 
 ## 📌 Menu
